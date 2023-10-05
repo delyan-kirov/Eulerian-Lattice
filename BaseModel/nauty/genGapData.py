@@ -5,7 +5,7 @@ import sys
 
 #%% Get file
 file = sys.argv[1]
-index = file.split("geo-n-")[1].split(".solution")[0]
+index = file.split("eulerian-n-")[1].split(".solution")[0]
 content = ''
 with open(file, 'r') as file:
     content = file.read()
