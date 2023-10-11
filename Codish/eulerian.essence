@@ -39,11 +39,7 @@ forAll i,j:N. (C((i,j)) = 1) <-> ((J((i,j)) = i) /\ !(i = j) /\ !(exists k : N. 
 $Graded
 forAll i,j: N. ((J((i,j)) = i) /\ !(i = j)) -> (R(i) > R(j)),
 forAll i,j: N. (C((i,j)) = 1) -> (R(i) = R(j) + 1),
+R(0) = 0,
 
 $Eulerian
-$forAll i,j: N. (sum a:N. toInt(J((i,a)) = i /\ J((j,a)) = a /\ (R(a) % 2 = 0))) = (sum b:N. toInt(J((i,b)) = i /\ J((j,b)) = b /\ (R(b) % 2 = 1)))
-
-
-
-
-
+forAll i,j: N. (J((i,j)) = j) /\ !(i = j) -> (sum a: N. toInt((J((a,i)) = a /\ (J((a,j)) = j) /\ (R(a) % 2 = 0)))) = (sum b: N. toInt((J((b,i)) = b /\ (J((b,j)) = j) /\ (R(b) % 2 = 1)))),
