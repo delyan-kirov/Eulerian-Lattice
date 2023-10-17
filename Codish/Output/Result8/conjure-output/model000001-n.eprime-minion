@@ -1,0 +1,1128 @@
+MINION 3
+# CSETopLevel_number = 0
+# CSETopLevel_eliminated_expressions = 0
+# CSETopLevel_total_size = 0
+# CSE_active_number = 298
+# CSE_active_eliminated_expressions = 1256
+# CSE_active_total_size = 2934
+**VARIABLES**
+DISCRETE M_FunctionND_00001_00002 #
+{0..7}
+DISCRETE M_FunctionND_00001_00003 #
+{0..7}
+DISCRETE M_FunctionND_00001_00004 #
+{0..7}
+DISCRETE M_FunctionND_00001_00005 #
+{0..7}
+DISCRETE M_FunctionND_00001_00006 #
+{0..7}
+DISCRETE M_FunctionND_00002_00003 #
+{0..7}
+DISCRETE M_FunctionND_00002_00004 #
+{0..7}
+DISCRETE M_FunctionND_00002_00005 #
+{0..7}
+DISCRETE M_FunctionND_00002_00006 #
+{0..7}
+DISCRETE M_FunctionND_00003_00004 #
+{0..7}
+DISCRETE M_FunctionND_00003_00005 #
+{0..7}
+DISCRETE M_FunctionND_00003_00006 #
+{0..7}
+DISCRETE M_FunctionND_00004_00005 #
+{0..7}
+DISCRETE M_FunctionND_00004_00006 #
+{0..7}
+DISCRETE M_FunctionND_00005_00006 #
+{0..7}
+DISCRETE J_FunctionND_00001_00002 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00001_00002, [0,0,2,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00001_00003 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00001_00003, [0,0,2,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00001_00004 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00001_00004, [0,0,2,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00001_00005 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00001_00005, [0,0,2,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00001_00006 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00001_00006, [0,0,2,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00002_00003 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00002_00003, [0,1,3,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00002_00004 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00002_00004, [0,1,3,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00002_00005 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00002_00005, [0,1,3,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00002_00006 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00002_00006, [0,1,3,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00003_00004 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00003_00004, [0,2,4,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00003_00005 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00003_00005, [0,2,4,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00003_00006 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00003_00006, [0,2,4,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00004_00005 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00004_00005, [0,3,5,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00004_00006 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00004_00006, [0,3,5,7])
+**VARIABLES**
+DISCRETE J_FunctionND_00005_00006 #
+{0..7}
+**CONSTRAINTS**
+w-inintervalset(J_FunctionND_00005_00006, [0,4,6,7])
+**VARIABLES**
+DISCRETE R_Function1D_00002 #
+{1..6}
+DISCRETE R_Function1D_00003 #
+{1..6}
+DISCRETE R_Function1D_00004 #
+{1..6}
+DISCRETE R_Function1D_00005 #
+{1..6}
+DISCRETE R_Function1D_00006 #
+{1..6}
+DISCRETE R_Function1D_00007 #
+{2..7}
+DISCRETE C_FunctionND_00002_00000 #
+{0..1}
+DISCRETE C_FunctionND_00002_00001 #
+{0..1}
+DISCRETE C_FunctionND_00003_00000 #
+{0..1}
+DISCRETE C_FunctionND_00003_00001 #
+{0..1}
+DISCRETE C_FunctionND_00003_00002 #
+{0..1}
+DISCRETE C_FunctionND_00004_00000 #
+{0..1}
+DISCRETE C_FunctionND_00004_00001 #
+{0..1}
+DISCRETE C_FunctionND_00004_00002 #
+{0..1}
+DISCRETE C_FunctionND_00004_00003 #
+{0..1}
+DISCRETE C_FunctionND_00005_00000 #
+{0..1}
+DISCRETE C_FunctionND_00005_00001 #
+{0..1}
+DISCRETE C_FunctionND_00005_00002 #
+{0..1}
+DISCRETE C_FunctionND_00005_00003 #
+{0..1}
+DISCRETE C_FunctionND_00005_00004 #
+{0..1}
+DISCRETE C_FunctionND_00006_00000 #
+{0..1}
+DISCRETE C_FunctionND_00006_00001 #
+{0..1}
+DISCRETE C_FunctionND_00006_00002 #
+{0..1}
+DISCRETE C_FunctionND_00006_00003 #
+{0..1}
+DISCRETE C_FunctionND_00006_00004 #
+{0..1}
+DISCRETE C_FunctionND_00006_00005 #
+{0..1}
+DISCRETE C_FunctionND_00007_00001 #
+{0..1}
+DISCRETE C_FunctionND_00007_00002 #
+{0..1}
+DISCRETE C_FunctionND_00007_00003 #
+{0..1}
+DISCRETE C_FunctionND_00007_00004 #
+{0..1}
+DISCRETE C_FunctionND_00007_00005 #
+{0..1}
+DISCRETE aux1 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], (1 + M_FunctionND_00001_00004))
+{0..7}
+DISCRETE aux2 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], (1 + M_FunctionND_00001_00006))
+{0..7}
+DISCRETE aux3 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], (1 + M_FunctionND_00001_00005))
+{0..7}
+DISCRETE aux6 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], (M_FunctionND_00003_00006 + 1))
+{0..7}
+DISCRETE aux11 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], (J_FunctionND_00002_00003 + 1))
+{0..7}
+DISCRETE aux18 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], (J_FunctionND_00003_00004 + 1))
+{0..7}
+DISCRETE aux20 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], (J_FunctionND_00003_00005 + 1))
+{0..7}
+DISCRETE aux31 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], (M_FunctionND_00002_00004 + 1))
+{0..7}
+DISCRETE aux32 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], (M_FunctionND_00002_00003 + 1))
+{0..7}
+DISCRETE aux33 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], (M_FunctionND_00002_00006 + 1))
+{0..7}
+DISCRETE aux34 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], (M_FunctionND_00002_00005 + 1))
+{0..7}
+DISCRETE aux36 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (J_FunctionND_00004_00005 + 1))
+{0..7}
+DISCRETE aux38 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (1 + J_FunctionND_00005_00006))
+{0..7}
+DISCRETE aux39 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], (J_FunctionND_00002_00006 + 1))
+{0..7}
+DISCRETE aux44 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], (J_FunctionND_00003_00005 + 1))
+{0..7}
+DISCRETE aux45 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], (J_FunctionND_00003_00006 + 1))
+{0..7}
+DISCRETE aux46 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (J_FunctionND_00002_00005 + 1))
+{0..7}
+DISCRETE aux47 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (J_FunctionND_00002_00006 + 1))
+{0..7}
+DISCRETE aux48 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (J_FunctionND_00002_00004 + 1))
+{0..7}
+DISCRETE aux49 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], (J_FunctionND_00002_00003 + 1))
+{0..7}
+DISCRETE aux58 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], (M_FunctionND_00004_00005 + 1))
+{0..7}
+DISCRETE aux59 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], (M_FunctionND_00004_00006 + 1))
+{0..7}
+DISCRETE aux60 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], (M_FunctionND_00004_00006 + 1))
+{0..7}
+DISCRETE aux67 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], (1 + J_FunctionND_00001_00004))
+{0..7}
+DISCRETE aux69 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], (J_FunctionND_00002_00005 + 1))
+{0..7}
+DISCRETE aux70 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], (J_FunctionND_00002_00006 + 1))
+{0..7}
+DISCRETE aux76 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], (1 + J_FunctionND_00001_00005))
+{0..7}
+DISCRETE aux77 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], (1 + J_FunctionND_00001_00004))
+{0..7}
+DISCRETE aux78 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], (1 + J_FunctionND_00001_00006))
+{0..7}
+DISCRETE aux84 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], (1 + M_FunctionND_00001_00006))
+{0..7}
+DISCRETE aux85 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], (1 + M_FunctionND_00001_00004))
+{0..7}
+DISCRETE aux88 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], (M_FunctionND_00003_00004 + 1))
+{0..7}
+DISCRETE aux89 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], (M_FunctionND_00003_00006 + 1))
+{0..7}
+DISCRETE aux90 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], (M_FunctionND_00002_00003 + 1))
+{0..7}
+DISCRETE aux92 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], (M_FunctionND_00002_00006 + 1))
+{0..7}
+DISCRETE aux93 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], (M_FunctionND_00004_00005 + 1))
+{0..7}
+DISCRETE aux96 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], (J_FunctionND_00004_00006 + 1))
+{0..7}
+DISCRETE aux97 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], (J_FunctionND_00003_00006 + 1))
+{0..7}
+DISCRETE aux114 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], (M_FunctionND_00004_00006 + 1))
+{0..7}
+DISCRETE aux115 #Active-CSE: 2 occurrences of this expression or equivalent: ElementOne([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], (M_FunctionND_00004_00005 + 1))
+{0..7}
+BOOL aux124 #Active-CSE: 2 occurrences of this expression or equivalent: ((6=J_FunctionND_00005_00006) /\ (1=(R_Function1D_00005%2)))
+BOOL aux125 #Active-CSE: 2 occurrences of this expression or equivalent: ((6=J_FunctionND_00005_00006) /\ (0=(R_Function1D_00006%2)))
+BOOL aux126 #Active-CSE: 2 occurrences of this expression or equivalent: ((6=J_FunctionND_00005_00006) /\ (1=(R_Function1D_00006%2)))
+BOOL aux127 #Active-CSE: 2 occurrences of this expression or equivalent: ((6=J_FunctionND_00005_00006) /\ (0=(R_Function1D_00005%2)))
+BOOL aux128 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00006=6))
+BOOL aux130 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00005=5))
+BOOL aux132 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00004=4))
+BOOL aux136 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00003=3))
+BOOL aux137 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00003%2)) /\ (J_FunctionND_00002_00003=3))
+BOOL aux138 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00005=5))
+BOOL aux140 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00006=6))
+BOOL aux142 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00003=3))
+BOOL aux144 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00002%2)) /\ (J_FunctionND_00002_00004=4))
+BOOL aux146 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00005%2)) /\ (J_FunctionND_00002_00005=5))
+BOOL aux148 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00006%2)) /\ (J_FunctionND_00002_00006=6))
+BOOL aux150 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00006%2)) /\ (J_FunctionND_00002_00006=6))
+BOOL aux152 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00003%2)) /\ (J_FunctionND_00002_00003=3))
+BOOL aux155 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00004%2)) /\ (J_FunctionND_00002_00004=4))
+BOOL aux156 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00004%2)) /\ (J_FunctionND_00002_00004=4))
+BOOL aux158 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00005%2)) /\ (J_FunctionND_00002_00005=5))
+BOOL aux160 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00004=4))
+BOOL aux162 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00005=5))
+BOOL aux164 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00006=6))
+BOOL aux166 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00006=6))
+BOOL aux169 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00005=5))
+BOOL aux170 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00003%2)) /\ (J_FunctionND_00003_00004=4))
+BOOL aux171 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00004%2)) /\ (J_FunctionND_00003_00004=4))
+BOOL aux174 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00004%2)) /\ (J_FunctionND_00003_00004=4))
+BOOL aux176 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00005%2)) /\ (J_FunctionND_00003_00005=5))
+BOOL aux178 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00005%2)) /\ (J_FunctionND_00003_00005=5))
+BOOL aux180 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00006%2)) /\ (J_FunctionND_00003_00006=6))
+BOOL aux183 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00006%2)) /\ (J_FunctionND_00003_00006=6))
+BOOL aux185 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00006%2)) /\ (6=J_FunctionND_00001_00006))
+BOOL aux186 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00002%2)) /\ (2=J_FunctionND_00001_00002))
+BOOL aux189 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00003%2)) /\ (3=J_FunctionND_00001_00003))
+BOOL aux192 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00004%2)) /\ (4=J_FunctionND_00001_00004))
+BOOL aux193 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00003%2)) /\ (3=J_FunctionND_00001_00003))
+BOOL aux196 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00005%2)) /\ (5=J_FunctionND_00001_00005))
+BOOL aux197 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00004%2)) /\ (4=J_FunctionND_00001_00004))
+BOOL aux200 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00006%2)) /\ (6=J_FunctionND_00001_00006))
+BOOL aux201 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00005%2)) /\ (5=J_FunctionND_00001_00005))
+BOOL aux214 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00001%2)) /\ (6=J_FunctionND_00001_00006))
+BOOL aux215 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00001%2)) /\ (5=J_FunctionND_00001_00005))
+BOOL aux216 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00001%2)) /\ (4=J_FunctionND_00001_00004))
+BOOL aux217 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00001%2)) /\ (3=J_FunctionND_00001_00003))
+BOOL aux218 #Active-CSE: 2 occurrences of this expression or equivalent: ((1=(R_Function1D_00001%2)) /\ (2=J_FunctionND_00001_00002))
+BOOL aux219 #Active-CSE: 2 occurrences of this expression or equivalent: ((0=(R_Function1D_00002%2)) /\ (2=J_FunctionND_00001_00002))
+BOOL aux224 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00006=6) /\ (0=(R_Function1D_00006%2)))
+BOOL aux225 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00006=6) /\ (1=(R_Function1D_00006%2)))
+BOOL aux227 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00006=6) /\ (0=(R_Function1D_00004%2)))
+BOOL aux229 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00006=6) /\ (1=(R_Function1D_00004%2)))
+BOOL aux232 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00005=5) /\ (1=(R_Function1D_00005%2)))
+BOOL aux234 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00005=5) /\ (1=(R_Function1D_00004%2)))
+BOOL aux235 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00005=5) /\ (0=(R_Function1D_00005%2)))
+BOOL aux237 #Active-CSE: 2 occurrences of this expression or equivalent: ((J_FunctionND_00004_00005=5) /\ (0=(R_Function1D_00004%2)))
+BOOL aux240 #Active-CSE: 66 occurrences of this expression or equivalent: (R_Function1D_00002%2)
+DISCRETE aux242 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00003_00006 + 1)
+{1..8}
+DISCRETE aux243 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00001_00005)
+{1..8}
+DISCRETE aux244 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00002_00005 + 1)
+{1..8}
+DISCRETE aux245 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00003_00005 + 1)
+{1..8}
+DISCRETE aux246 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00002_00006 + 1)
+{1..8}
+DISCRETE aux247 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00002_00006 + 1)
+{1..8}
+DISCRETE aux248 #Active-CSE: 6 occurrences of this expression or equivalent: (R_Function1D_00002 + 1)
+{2..7}
+BOOL aux249 #Active-CSE: 66 occurrences of this expression or equivalent: (R_Function1D_00004%2)
+DISCRETE aux250 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00001_00004)
+{1..8}
+DISCRETE aux251 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00003_00004 + 1)
+{1..8}
+DISCRETE aux252 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00002_00005 + 1)
+{1..8}
+DISCRETE aux253 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00003_00004 + 1)
+{1..8}
+BOOL aux254 #Active-CSE: 66 occurrences of this expression or equivalent: (R_Function1D_00005%2)
+DISCRETE aux255 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00004_00005 + 1)
+{1..8}
+BOOL aux256 #Active-CSE: 14 occurrences of this expression or equivalent: (R_Function1D_00007%2)
+DISCRETE aux257 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00003_00005 + 1)
+{1..8}
+DISCRETE aux258 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00004_00006 + 1)
+{1..8}
+DISCRETE aux259 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00004_00006 + 1)
+{1..8}
+DISCRETE aux260 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00003_00006 + 1)
+{1..8}
+DISCRETE aux261 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00001_00002)
+{1..8}
+DISCRETE aux262 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00005_00006)
+{1..8}
+DISCRETE aux263 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00001_00003)
+{1..8}
+DISCRETE aux264 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00004_00005 + 1)
+{1..8}
+DISCRETE aux265 #Active-CSE: 6 occurrences of this expression or equivalent: (R_Function1D_00003 + 1)
+{2..7}
+DISCRETE aux281 #Active-CSE: 6 occurrences of this expression or equivalent: (R_Function1D_00004 + 1)
+{2..7}
+DISCRETE aux282 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00001_00003)
+{1..8}
+BOOL aux283 #Active-CSE: 66 occurrences of this expression or equivalent: (R_Function1D_00003%2)
+DISCRETE aux284 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00001_00005)
+{1..8}
+DISCRETE aux285 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00001_00006)
+{1..8}
+DISCRETE aux286 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00005_00006)
+{1..8}
+DISCRETE aux287 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00002_00003 + 1)
+{1..8}
+DISCRETE aux288 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00002_00004 + 1)
+{1..8}
+DISCRETE aux289 #Active-CSE: 6 occurrences of this expression or equivalent: (R_Function1D_00005 + 1)
+{2..7}
+DISCRETE aux290 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + J_FunctionND_00001_00006)
+{1..8}
+DISCRETE aux291 #Active-CSE: 10 occurrences of this expression or equivalent: (M_FunctionND_00002_00004 + 1)
+{1..8}
+DISCRETE aux292 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00001_00002)
+{1..8}
+DISCRETE aux293 #Active-CSE: 10 occurrences of this expression or equivalent: (J_FunctionND_00002_00003 + 1)
+{1..8}
+BOOL aux294 #Active-CSE: 66 occurrences of this expression or equivalent: (R_Function1D_00006%2)
+DISCRETE aux297 #Active-CSE: 10 occurrences of this expression or equivalent: (1 + M_FunctionND_00001_00004)
+{1..8}
+BOOL aux299 #(C_FunctionND_00002_00000=1)
+BOOL aux301 #(2=J_FunctionND_00001_00002)
+BOOL aux303 #((J_FunctionND_00002_00003 != 3) /\ (3 != J_FunctionND_00001_00003))
+BOOL aux305 #((3=J_FunctionND_00001_00003) /\ ((J_FunctionND_00002_00003 != 3) \/ (2 != J_FunctionND_00001_00002)))
+BOOL aux307 #(J_FunctionND_00002_00003=3)
+BOOL aux309 #((J_FunctionND_00002_00004 != 4) /\ (4 != J_FunctionND_00001_00004) /\ (J_FunctionND_00003_00004 != 4))
+BOOL aux311 #((4=J_FunctionND_00001_00004) /\ ((3 != J_FunctionND_00001_00003) \/ (J_FunctionND_00003_00004 != 4)) /\ ((J_FunctionND_00002_00004 != 4) \/ (2 != J_FunctionND_00001_00002)))
+BOOL aux313 #(((J_FunctionND_00002_00003 != 3) \/ (J_FunctionND_00003_00004 != 4)) /\ (J_FunctionND_00002_00004=4))
+BOOL aux315 #(J_FunctionND_00003_00004=4)
+BOOL aux317 #(1=C_FunctionND_00005_00000)
+BOOL aux319 #((5=J_FunctionND_00001_00005) /\ ((3 != J_FunctionND_00001_00003) \/ (J_FunctionND_00003_00005 != 5)) /\ ((J_FunctionND_00002_00005 != 5) \/ (2 != J_FunctionND_00001_00002)) /\ ((J_FunctionND_00004_00005 != 5) \/ (4 != J_FunctionND_00001_00004)))
+BOOL aux321 #(((J_FunctionND_00002_00003 != 3) \/ (J_FunctionND_00003_00005 != 5)) /\ (J_FunctionND_00002_00005=5) /\ ((J_FunctionND_00004_00005 != 5) \/ (J_FunctionND_00002_00004 != 4)))
+BOOL aux323 #(((J_FunctionND_00004_00005 != 5) \/ (J_FunctionND_00003_00004 != 4)) /\ (J_FunctionND_00003_00005=5))
+BOOL aux325 #(J_FunctionND_00004_00005=5)
+BOOL aux327 #(1=C_FunctionND_00006_00000)
+BOOL aux329 #((6=J_FunctionND_00001_00006) /\ ((3 != J_FunctionND_00001_00003) \/ (J_FunctionND_00003_00006 != 6)) /\ ((J_FunctionND_00002_00006 != 6) \/ (2 != J_FunctionND_00001_00002)) /\ ((J_FunctionND_00004_00006 != 6) \/ (4 != J_FunctionND_00001_00004)) /\ ((6 != J_FunctionND_00005_00006) \/ (5 != J_FunctionND_00001_00005)))
+BOOL aux331 #(1=C_FunctionND_00006_00002)
+BOOL aux333 #(((J_FunctionND_00004_00006 != 6) \/ (J_FunctionND_00003_00004 != 4)) /\ ((6 != J_FunctionND_00005_00006) \/ (J_FunctionND_00003_00005 != 5)) /\ (J_FunctionND_00003_00006=6))
+BOOL aux335 #((J_FunctionND_00004_00006=6) /\ ((J_FunctionND_00004_00005 != 5) \/ (6 != J_FunctionND_00005_00006)))
+BOOL aux337 #(6=J_FunctionND_00005_00006)
+BOOL aux339 #((2 != J_FunctionND_00001_00002) /\ (3 != J_FunctionND_00001_00003) /\ (4 != J_FunctionND_00001_00004) /\ (5 != J_FunctionND_00001_00005) /\ (6 != J_FunctionND_00001_00006))
+BOOL aux341 #(C_FunctionND_00007_00002=1)
+BOOL aux343 #(C_FunctionND_00007_00003=1)
+BOOL aux345 #(C_FunctionND_00007_00004=1)
+BOOL aux347 #(C_FunctionND_00007_00005=1)
+BOOL aux348 #(C_FunctionND_00002_00000=1)
+BOOL aux349 #(C_FunctionND_00002_00001=1)
+BOOL aux350 #(C_FunctionND_00003_00000=1)
+BOOL aux351 #(C_FunctionND_00003_00001=1)
+BOOL aux352 #(C_FunctionND_00003_00002=1)
+BOOL aux353 #(1=C_FunctionND_00004_00000)
+BOOL aux354 #(1=C_FunctionND_00004_00001)
+BOOL aux355 #(1=C_FunctionND_00004_00002)
+BOOL aux356 #(1=C_FunctionND_00004_00003)
+BOOL aux357 #(1=C_FunctionND_00005_00000)
+BOOL aux358 #(1=C_FunctionND_00005_00001)
+BOOL aux359 #(1=C_FunctionND_00005_00002)
+BOOL aux360 #(1=C_FunctionND_00005_00003)
+BOOL aux361 #(1=C_FunctionND_00005_00004)
+BOOL aux362 #(1=C_FunctionND_00006_00000)
+BOOL aux363 #(1=C_FunctionND_00006_00001)
+BOOL aux364 #(1=C_FunctionND_00006_00002)
+BOOL aux365 #(1=C_FunctionND_00006_00003)
+BOOL aux366 #(1=C_FunctionND_00006_00004)
+BOOL aux367 #(1=C_FunctionND_00006_00005)
+BOOL aux368 #(C_FunctionND_00007_00001=1)
+BOOL aux369 #(C_FunctionND_00007_00002=1)
+BOOL aux370 #(C_FunctionND_00007_00003=1)
+BOOL aux371 #(C_FunctionND_00007_00004=1)
+BOOL aux372 #(C_FunctionND_00007_00005=1)
+BOOL aux373 #(aux240 /\ (J_FunctionND_00002_00003=3) /\ (2=J_FunctionND_00001_00002))
+BOOL aux374 #((!aux240) /\ (J_FunctionND_00002_00003=3) /\ (2=J_FunctionND_00001_00002))
+BOOL aux375 #(aux283 /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00004=4))
+BOOL aux376 #(aux240 /\ (J_FunctionND_00002_00004=4) /\ (2=J_FunctionND_00001_00002))
+BOOL aux377 #((!aux283) /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00004=4))
+BOOL aux378 #((!aux240) /\ (J_FunctionND_00002_00004=4) /\ (2=J_FunctionND_00001_00002))
+BOOL aux379 #(aux283 /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00005=5))
+BOOL aux380 #(aux240 /\ (J_FunctionND_00002_00005=5) /\ (2=J_FunctionND_00001_00002))
+BOOL aux381 #((J_FunctionND_00004_00005=5) /\ (!aux249) /\ (4=J_FunctionND_00001_00004))
+BOOL aux382 #((!aux283) /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00005=5))
+BOOL aux383 #((!aux240) /\ (J_FunctionND_00002_00005=5) /\ (2=J_FunctionND_00001_00002))
+BOOL aux384 #((J_FunctionND_00004_00005=5) /\ aux249 /\ (4=J_FunctionND_00001_00004))
+BOOL aux385 #(aux283 /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00006=6))
+BOOL aux386 #(aux240 /\ (J_FunctionND_00002_00006=6) /\ (2=J_FunctionND_00001_00002))
+BOOL aux387 #((6=J_FunctionND_00005_00006) /\ aux254 /\ (5=J_FunctionND_00001_00005))
+BOOL aux388 #((J_FunctionND_00004_00006=6) /\ (!aux249) /\ (4=J_FunctionND_00001_00004))
+BOOL aux389 #((!aux283) /\ (3=J_FunctionND_00001_00003) /\ (J_FunctionND_00003_00006=6))
+BOOL aux390 #((!aux240) /\ (J_FunctionND_00002_00006=6) /\ (2=J_FunctionND_00001_00002))
+BOOL aux391 #((J_FunctionND_00004_00006=6) /\ aux249 /\ (4=J_FunctionND_00001_00004))
+BOOL aux392 #((6=J_FunctionND_00005_00006) /\ (!aux254) /\ (5=J_FunctionND_00001_00005))
+BOOL aux393 #((!aux283) /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00004=4))
+BOOL aux394 #(aux283 /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00004=4))
+BOOL aux395 #((!aux283) /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00005=5))
+BOOL aux396 #((J_FunctionND_00004_00005=5) /\ (!aux249) /\ (J_FunctionND_00002_00004=4))
+BOOL aux397 #(aux283 /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00005=5))
+BOOL aux398 #((J_FunctionND_00004_00005=5) /\ aux249 /\ (J_FunctionND_00002_00004=4))
+BOOL aux399 #((!aux283) /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00006=6))
+BOOL aux400 #((6=J_FunctionND_00005_00006) /\ aux254 /\ (J_FunctionND_00002_00005=5))
+BOOL aux401 #((J_FunctionND_00004_00006=6) /\ (!aux249) /\ (J_FunctionND_00002_00004=4))
+BOOL aux402 #(aux283 /\ (J_FunctionND_00002_00003=3) /\ (J_FunctionND_00003_00006=6))
+BOOL aux403 #((J_FunctionND_00004_00006=6) /\ aux249 /\ (J_FunctionND_00002_00004=4))
+BOOL aux404 #((6=J_FunctionND_00005_00006) /\ (!aux254) /\ (J_FunctionND_00002_00005=5))
+BOOL aux405 #((J_FunctionND_00004_00005=5) /\ aux249 /\ (J_FunctionND_00003_00004=4))
+BOOL aux406 #((J_FunctionND_00004_00005=5) /\ (!aux249) /\ (J_FunctionND_00003_00004=4))
+BOOL aux407 #((J_FunctionND_00004_00006=6) /\ aux249 /\ (J_FunctionND_00003_00004=4))
+BOOL aux408 #((6=J_FunctionND_00005_00006) /\ (!aux254) /\ (J_FunctionND_00003_00005=5))
+BOOL aux409 #((6=J_FunctionND_00005_00006) /\ aux254 /\ (J_FunctionND_00003_00005=5))
+BOOL aux410 #((J_FunctionND_00004_00006=6) /\ (!aux249) /\ (J_FunctionND_00003_00004=4))
+BOOL aux411 #((J_FunctionND_00004_00005=5) /\ (6=J_FunctionND_00005_00006) /\ aux254)
+BOOL aux412 #((J_FunctionND_00004_00005=5) /\ (6=J_FunctionND_00005_00006) /\ (!aux254))
+**SEARCH**
+PRINT[[M_FunctionND_00001_00002],[M_FunctionND_00001_00003],[M_FunctionND_00001_00004],[M_FunctionND_00001_00005],[M_FunctionND_00001_00006],[M_FunctionND_00002_00003],[M_FunctionND_00002_00004],[M_FunctionND_00002_00005],[M_FunctionND_00002_00006],[M_FunctionND_00003_00004],[M_FunctionND_00003_00005],[M_FunctionND_00003_00006],[M_FunctionND_00004_00005],[M_FunctionND_00004_00006],[M_FunctionND_00005_00006],[J_FunctionND_00001_00002],[J_FunctionND_00001_00003],[J_FunctionND_00001_00004],[J_FunctionND_00001_00005],[J_FunctionND_00001_00006],[J_FunctionND_00002_00003],[J_FunctionND_00002_00004],[J_FunctionND_00002_00005],[J_FunctionND_00002_00006],[J_FunctionND_00003_00004],[J_FunctionND_00003_00005],[J_FunctionND_00003_00006],[J_FunctionND_00004_00005],[J_FunctionND_00004_00006],[J_FunctionND_00005_00006],[R_Function1D_00002],[R_Function1D_00003],[R_Function1D_00004],[R_Function1D_00005],[R_Function1D_00006],[R_Function1D_00007],[C_FunctionND_00002_00000],[C_FunctionND_00002_00001],[C_FunctionND_00003_00000],[C_FunctionND_00003_00001],[C_FunctionND_00003_00002],[C_FunctionND_00004_00000],[C_FunctionND_00004_00001],[C_FunctionND_00004_00002],[C_FunctionND_00004_00003],[C_FunctionND_00005_00000],[C_FunctionND_00005_00001],[C_FunctionND_00005_00002],[C_FunctionND_00005_00003],[C_FunctionND_00005_00004],[C_FunctionND_00006_00000],[C_FunctionND_00006_00001],[C_FunctionND_00006_00002],[C_FunctionND_00006_00003],[C_FunctionND_00006_00004],[C_FunctionND_00006_00005],[C_FunctionND_00007_00001],[C_FunctionND_00007_00002],[C_FunctionND_00007_00003],[C_FunctionND_00007_00004],[C_FunctionND_00007_00005]]
+**CONSTRAINTS**
+reify(diseq(2,J_FunctionND_00001_00002), aux299)
+reify(w-literal(C_FunctionND_00002_00000,1), aux299)
+reify(w-literal(C_FunctionND_00002_00001,1), aux301)
+reify(w-literal(J_FunctionND_00001_00002,2), aux301)
+reify(w-literal(C_FunctionND_00003_00000,1), aux303)
+reify(watched-and({diseq(J_FunctionND_00002_00003,3),diseq(3,J_FunctionND_00001_00003)}), aux303)
+reify(w-literal(C_FunctionND_00003_00001,1), aux305)
+reify(watched-and({w-literal(J_FunctionND_00001_00003,3),watched-or({diseq(J_FunctionND_00002_00003,3),diseq(2,J_FunctionND_00001_00002)})}), aux305)
+reify(w-literal(C_FunctionND_00003_00002,1), aux307)
+reify(w-literal(J_FunctionND_00002_00003,3), aux307)
+reify(w-literal(C_FunctionND_00004_00000,1), aux309)
+reify(watched-and({diseq(J_FunctionND_00002_00004,4),diseq(4,J_FunctionND_00001_00004),diseq(J_FunctionND_00003_00004,4)}), aux309)
+reify(w-literal(C_FunctionND_00004_00001,1), aux311)
+reify(watched-and({w-literal(J_FunctionND_00001_00004,4),watched-or({diseq(3,J_FunctionND_00001_00003),diseq(J_FunctionND_00003_00004,4)}),watched-or({diseq(J_FunctionND_00002_00004,4),diseq(2,J_FunctionND_00001_00002)})}), aux311)
+reify(w-literal(C_FunctionND_00004_00002,1), aux313)
+reify(watched-and({watched-or({diseq(J_FunctionND_00002_00003,3),diseq(J_FunctionND_00003_00004,4)}),w-literal(J_FunctionND_00002_00004,4)}), aux313)
+reify(w-literal(C_FunctionND_00004_00003,1), aux315)
+reify(w-literal(J_FunctionND_00003_00004,4), aux315)
+reify(watched-and({diseq(J_FunctionND_00004_00005,5),diseq(J_FunctionND_00002_00005,5),diseq(5,J_FunctionND_00001_00005),diseq(J_FunctionND_00003_00005,5)}), aux317)
+reify(w-literal(C_FunctionND_00005_00000,1), aux317)
+reify(w-literal(C_FunctionND_00005_00001,1), aux319)
+reify(watched-and({w-literal(J_FunctionND_00001_00005,5),watched-or({diseq(3,J_FunctionND_00001_00003),diseq(J_FunctionND_00003_00005,5)}),watched-or({diseq(J_FunctionND_00002_00005,5),diseq(2,J_FunctionND_00001_00002)}),watched-or({diseq(J_FunctionND_00004_00005,5),diseq(4,J_FunctionND_00001_00004)})}), aux319)
+reify(w-literal(C_FunctionND_00005_00002,1), aux321)
+reify(watched-and({watched-or({diseq(J_FunctionND_00002_00003,3),diseq(J_FunctionND_00003_00005,5)}),w-literal(J_FunctionND_00002_00005,5),watched-or({diseq(J_FunctionND_00004_00005,5),diseq(J_FunctionND_00002_00004,4)})}), aux321)
+reify(w-literal(C_FunctionND_00005_00003,1), aux323)
+reify(watched-and({watched-or({diseq(J_FunctionND_00004_00005,5),diseq(J_FunctionND_00003_00004,4)}),w-literal(J_FunctionND_00003_00005,5)}), aux323)
+reify(w-literal(C_FunctionND_00005_00004,1), aux325)
+reify(w-literal(J_FunctionND_00004_00005,5), aux325)
+reify(watched-and({diseq(J_FunctionND_00004_00006,6),diseq(6,J_FunctionND_00005_00006),diseq(J_FunctionND_00002_00006,6),diseq(6,J_FunctionND_00001_00006),diseq(J_FunctionND_00003_00006,6)}), aux327)
+reify(w-literal(C_FunctionND_00006_00000,1), aux327)
+reify(w-literal(C_FunctionND_00006_00001,1), aux329)
+reify(watched-and({w-literal(J_FunctionND_00001_00006,6),watched-or({diseq(3,J_FunctionND_00001_00003),diseq(J_FunctionND_00003_00006,6)}),watched-or({diseq(J_FunctionND_00002_00006,6),diseq(2,J_FunctionND_00001_00002)}),watched-or({diseq(J_FunctionND_00004_00006,6),diseq(4,J_FunctionND_00001_00004)}),watched-or({diseq(6,J_FunctionND_00005_00006),diseq(5,J_FunctionND_00001_00005)})}), aux329)
+reify(watched-and({watched-or({diseq(J_FunctionND_00002_00003,3),diseq(J_FunctionND_00003_00006,6)}),w-literal(J_FunctionND_00002_00006,6),watched-or({diseq(J_FunctionND_00004_00006,6),diseq(J_FunctionND_00002_00004,4)}),watched-or({diseq(6,J_FunctionND_00005_00006),diseq(J_FunctionND_00002_00005,5)})}), aux331)
+reify(w-literal(C_FunctionND_00006_00002,1), aux331)
+reify(w-literal(C_FunctionND_00006_00003,1), aux333)
+reify(watched-and({watched-or({diseq(J_FunctionND_00004_00006,6),diseq(J_FunctionND_00003_00004,4)}),watched-or({diseq(6,J_FunctionND_00005_00006),diseq(J_FunctionND_00003_00005,5)}),w-literal(J_FunctionND_00003_00006,6)}), aux333)
+reify(w-literal(C_FunctionND_00006_00004,1), aux335)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),watched-or({diseq(J_FunctionND_00004_00005,5),diseq(6,J_FunctionND_00005_00006)})}), aux335)
+reify(w-literal(C_FunctionND_00006_00005,1), aux337)
+reify(w-literal(J_FunctionND_00005_00006,6), aux337)
+reify(w-literal(C_FunctionND_00007_00001,1), aux339)
+reify(watched-and({diseq(2,J_FunctionND_00001_00002),diseq(3,J_FunctionND_00001_00003),diseq(4,J_FunctionND_00001_00004),diseq(5,J_FunctionND_00001_00005),diseq(6,J_FunctionND_00001_00006)}), aux339)
+reify(watched-and({diseq(J_FunctionND_00002_00003,3),diseq(J_FunctionND_00002_00004,4),diseq(J_FunctionND_00002_00005,5),diseq(J_FunctionND_00002_00006,6)}), aux341)
+reify(w-literal(C_FunctionND_00007_00002,1), aux341)
+reify(watched-and({diseq(J_FunctionND_00003_00004,4),diseq(J_FunctionND_00003_00005,5),diseq(J_FunctionND_00003_00006,6)}), aux343)
+reify(w-literal(C_FunctionND_00007_00003,1), aux343)
+reify(watched-and({diseq(J_FunctionND_00004_00005,5),diseq(J_FunctionND_00004_00006,6)}), aux345)
+reify(w-literal(C_FunctionND_00007_00004,1), aux345)
+reify(diseq(6,J_FunctionND_00005_00006), aux347)
+reify(w-literal(C_FunctionND_00007_00005,1), aux347)
+reify(w-literal(C_FunctionND_00002_00000,1), aux348)
+reify(w-literal(C_FunctionND_00002_00001,1), aux349)
+reify(w-literal(C_FunctionND_00003_00000,1), aux350)
+reify(w-literal(C_FunctionND_00003_00001,1), aux351)
+reify(w-literal(C_FunctionND_00003_00002,1), aux352)
+reify(w-literal(C_FunctionND_00004_00000,1), aux353)
+reify(w-literal(C_FunctionND_00004_00001,1), aux354)
+reify(w-literal(C_FunctionND_00004_00002,1), aux355)
+reify(w-literal(C_FunctionND_00004_00003,1), aux356)
+reify(w-literal(C_FunctionND_00005_00000,1), aux357)
+reify(w-literal(C_FunctionND_00005_00001,1), aux358)
+reify(w-literal(C_FunctionND_00005_00002,1), aux359)
+reify(w-literal(C_FunctionND_00005_00003,1), aux360)
+reify(w-literal(C_FunctionND_00005_00004,1), aux361)
+reify(w-literal(C_FunctionND_00006_00000,1), aux362)
+reify(w-literal(C_FunctionND_00006_00001,1), aux363)
+reify(w-literal(C_FunctionND_00006_00002,1), aux364)
+reify(w-literal(C_FunctionND_00006_00003,1), aux365)
+reify(w-literal(C_FunctionND_00006_00004,1), aux366)
+reify(w-literal(C_FunctionND_00006_00005,1), aux367)
+reify(w-literal(C_FunctionND_00007_00001,1), aux368)
+reify(w-literal(C_FunctionND_00007_00002,1), aux369)
+reify(w-literal(C_FunctionND_00007_00003,1), aux370)
+reify(w-literal(C_FunctionND_00007_00004,1), aux371)
+reify(w-literal(C_FunctionND_00007_00005,1), aux372)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00001_00002,2)}), aux373)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00001_00002,2)}), aux374)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00004,4)}), aux375)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00004,4),w-literal(J_FunctionND_00001_00002,2)}), aux376)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00004,4)}), aux377)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00004,4),w-literal(J_FunctionND_00001_00002,2)}), aux378)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00005,5)}), aux379)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00005,5),w-literal(J_FunctionND_00001_00002,2)}), aux380)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,0),w-literal(J_FunctionND_00001_00004,4)}), aux381)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00005,5)}), aux382)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00005,5),w-literal(J_FunctionND_00001_00002,2)}), aux383)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,1),w-literal(J_FunctionND_00001_00004,4)}), aux384)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00006,6)}), aux385)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00006,6),w-literal(J_FunctionND_00001_00002,2)}), aux386)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,1),w-literal(J_FunctionND_00001_00005,5)}), aux387)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,0),w-literal(J_FunctionND_00001_00004,4)}), aux388)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00001_00003,3),w-literal(J_FunctionND_00003_00006,6)}), aux389)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00006,6),w-literal(J_FunctionND_00001_00002,2)}), aux390)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,1),w-literal(J_FunctionND_00001_00004,4)}), aux391)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,0),w-literal(J_FunctionND_00001_00005,5)}), aux392)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00004,4)}), aux393)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00004,4)}), aux394)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00005,5)}), aux395)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,0),w-literal(J_FunctionND_00002_00004,4)}), aux396)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00005,5)}), aux397)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,1),w-literal(J_FunctionND_00002_00004,4)}), aux398)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00006,6)}), aux399)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,1),w-literal(J_FunctionND_00002_00005,5)}), aux400)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,0),w-literal(J_FunctionND_00002_00004,4)}), aux401)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00002_00003,3),w-literal(J_FunctionND_00003_00006,6)}), aux402)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,1),w-literal(J_FunctionND_00002_00004,4)}), aux403)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,0),w-literal(J_FunctionND_00002_00005,5)}), aux404)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,1),w-literal(J_FunctionND_00003_00004,4)}), aux405)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,0),w-literal(J_FunctionND_00003_00004,4)}), aux406)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,1),w-literal(J_FunctionND_00003_00004,4)}), aux407)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,0),w-literal(J_FunctionND_00003_00005,5)}), aux408)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,1),w-literal(J_FunctionND_00003_00005,5)}), aux409)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,0),w-literal(J_FunctionND_00003_00004,4)}), aux410)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,1)}), aux411)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,0)}), aux412)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux292, aux32)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux297, aux1)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux285, aux2)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux243, aux3)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux245, aux6)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux251, aux114)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux242, aux6)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux251, aux115)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux247, aux59)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux244, aux58)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux287, aux88)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux293, aux11)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux288, aux70)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux252, aux39)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux284, aux36)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux261, aux48)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux282, aux77)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux290, aux67)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux253, aux18)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux260, aux11)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux257, aux20)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux255, aux96)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux291, aux88)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux244, aux90)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux247, aux89)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux258, aux45)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux255, aux44)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux263, aux32)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux297, aux31)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux243, aux34)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux285, aux33)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux291, aux31)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux287, aux32)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux247, aux33)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux244, aux34)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux258, aux67)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux255, aux36)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux262, aux93)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux286, aux38)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux246, aux39)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux288, aux69)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux293, aux20)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux245, aux115)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux242, aux114)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux257, aux44)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux260, aux45)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux252, aux46)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux246, aux47)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux288, aux48)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux293, aux49)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux287, aux89)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux291, aux59)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux244, aux92)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux290, aux47)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux282, aux49)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux250, aux48)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux284, aux46)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux262, aux6)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux264, aux58)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux259, aux59)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux259, aux60)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux264, aux85)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux251, aux1)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux245, aux3)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux242, aux2)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux261, aux47)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux282, aux78)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux250, aux67)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux284, aux38)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux252, aux69)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux246, aux70)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux293, aux18)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux286, aux39)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux255, aux69)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux258, aux70)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux261, aux49)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux284, aux76)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux250, aux77)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux290, aux78)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux263, aux2)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux297, aux60)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux243, aux84)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux292, aux33)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux292, aux34)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux285, aux84)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux297, aux85)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux263, aux3)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux245, aux90)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux251, aux88)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux242, aux89)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux287, aux90)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux291, aux58)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux247, aux92)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux264, aux93)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux253, aux45)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux257, aux97)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux258, aux96)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux260, aux97)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux253, aux44)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux286, aux96)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux260, aux78)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux253, aux77)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux257, aux76)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux250, aux36)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux282, aux76)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux261, aux46)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux290, aux38)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux262, aux84)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux286, aux97)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux292, aux31)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux243, aux85)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux285, aux60)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux263, aux1)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux259, aux93)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux259, aux114)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux264, aux115)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux246, aux11)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux252, aux20)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux288, aux18)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux262, aux92)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,1)}), aux124)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux294,0)}), aux125)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux294,1)}), aux126)
+reify(watched-and({w-literal(J_FunctionND_00005_00006,6),w-literal(aux254,0)}), aux127)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00006,6)}), aux128)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00005,5)}), aux130)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00004,4)}), aux132)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00002_00003,3)}), aux136)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00002_00003,3)}), aux137)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00005,5)}), aux138)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00006,6)}), aux140)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00003,3)}), aux142)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00002_00004,4)}), aux144)
+reify(watched-and({w-literal(aux254,1),w-literal(J_FunctionND_00002_00005,5)}), aux146)
+reify(watched-and({w-literal(aux294,0),w-literal(J_FunctionND_00002_00006,6)}), aux148)
+reify(watched-and({w-literal(aux294,1),w-literal(J_FunctionND_00002_00006,6)}), aux150)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00002_00003,3)}), aux152)
+reify(watched-and({w-literal(aux249,0),w-literal(J_FunctionND_00002_00004,4)}), aux155)
+reify(watched-and({w-literal(aux249,1),w-literal(J_FunctionND_00002_00004,4)}), aux156)
+reify(watched-and({w-literal(aux254,0),w-literal(J_FunctionND_00002_00005,5)}), aux158)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00003_00004,4)}), aux160)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00003_00005,5)}), aux162)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00003_00006,6)}), aux164)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00003_00006,6)}), aux166)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00003_00005,5)}), aux169)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00003_00004,4)}), aux170)
+reify(watched-and({w-literal(aux249,0),w-literal(J_FunctionND_00003_00004,4)}), aux171)
+reify(watched-and({w-literal(aux249,1),w-literal(J_FunctionND_00003_00004,4)}), aux174)
+reify(watched-and({w-literal(aux254,0),w-literal(J_FunctionND_00003_00005,5)}), aux176)
+reify(watched-and({w-literal(aux254,1),w-literal(J_FunctionND_00003_00005,5)}), aux178)
+reify(watched-and({w-literal(aux294,0),w-literal(J_FunctionND_00003_00006,6)}), aux180)
+reify(watched-and({w-literal(aux294,1),w-literal(J_FunctionND_00003_00006,6)}), aux183)
+reify(watched-and({w-literal(aux294,1),w-literal(J_FunctionND_00001_00006,6)}), aux185)
+reify(watched-and({w-literal(aux240,1),w-literal(J_FunctionND_00001_00002,2)}), aux186)
+reify(watched-and({w-literal(aux283,0),w-literal(J_FunctionND_00001_00003,3)}), aux189)
+reify(watched-and({w-literal(aux249,0),w-literal(J_FunctionND_00001_00004,4)}), aux192)
+reify(watched-and({w-literal(aux283,1),w-literal(J_FunctionND_00001_00003,3)}), aux193)
+reify(watched-and({w-literal(aux254,0),w-literal(J_FunctionND_00001_00005,5)}), aux196)
+reify(watched-and({w-literal(aux249,1),w-literal(J_FunctionND_00001_00004,4)}), aux197)
+reify(watched-and({w-literal(aux294,0),w-literal(J_FunctionND_00001_00006,6)}), aux200)
+reify(watched-and({w-literal(aux254,1),w-literal(J_FunctionND_00001_00005,5)}), aux201)
+reify(w-literal(J_FunctionND_00001_00006,6), aux214)
+reify(w-literal(J_FunctionND_00001_00005,5), aux215)
+reify(w-literal(J_FunctionND_00001_00004,4), aux216)
+reify(w-literal(J_FunctionND_00001_00003,3), aux217)
+reify(w-literal(J_FunctionND_00001_00002,2), aux218)
+reify(watched-and({w-literal(aux240,0),w-literal(J_FunctionND_00001_00002,2)}), aux219)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux294,0)}), aux224)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux294,1)}), aux225)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,0)}), aux227)
+reify(watched-and({w-literal(J_FunctionND_00004_00006,6),w-literal(aux249,1)}), aux229)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux254,1)}), aux232)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,1)}), aux234)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux254,0)}), aux235)
+reify(watched-and({w-literal(J_FunctionND_00004_00005,5),w-literal(aux249,0)}), aux237)
+modulo(R_Function1D_00002,2,aux240)
+modulo(R_Function1D_00004,2,aux249)
+modulo(R_Function1D_00005,2,aux254)
+modulo(R_Function1D_00007,2,aux256)
+ineq(R_Function1D_00003, R_Function1D_00006, 0)
+ineq(R_Function1D_00003, R_Function1D_00004, 0)
+ineq(R_Function1D_00005, R_Function1D_00006, 0)
+reify(ineq(R_Function1D_00003, R_Function1D_00002, -1), 0)
+reify(ineq(R_Function1D_00005, R_Function1D_00002, -1), 0)
+reify(ineq(R_Function1D_00005, R_Function1D_00004, -1), 0)
+reify(ineq(R_Function1D_00005, R_Function1D_00003, -1), 0)
+ineq(R_Function1D_00002, R_Function1D_00006, 0)
+reify(ineq(R_Function1D_00004, R_Function1D_00002, -1), 0)
+ineq(R_Function1D_00004, R_Function1D_00006, 0)
+modulo(R_Function1D_00003,2,aux283)
+modulo(R_Function1D_00006,2,aux294)
+watched-or({diseq(1,R_Function1D_00002),lexless([M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006],[1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006])})
+watched-or({diseq(R_Function1D_00002,R_Function1D_00003),lexless([M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006],[M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006])})
+watched-or({diseq(R_Function1D_00003,R_Function1D_00004),lexless([M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006],[M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006])})
+watched-or({diseq(R_Function1D_00004,R_Function1D_00005),lexless([M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006],[M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006])})
+watched-or({lexless([M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6],[M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006]),diseq(R_Function1D_00005,R_Function1D_00006)})
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux292, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux263, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux297, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux243, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux285, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux287, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux291, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux244, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux247, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux251, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux245, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux242, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux264, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux259, 0)
+watchelement_one([0, 0, 0, 0, 0, 0, 0, 0], aux262, 0)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux292, M_FunctionND_00001_00002)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux263, M_FunctionND_00001_00003)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux297, M_FunctionND_00001_00004)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux243, M_FunctionND_00001_00005)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux285, M_FunctionND_00001_00006)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux292, M_FunctionND_00001_00002)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux292, M_FunctionND_00001_00002)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux263, M_FunctionND_00001_00003)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux263, M_FunctionND_00001_00003)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux297, M_FunctionND_00001_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux297, M_FunctionND_00001_00004)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux243, M_FunctionND_00001_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux243, M_FunctionND_00001_00005)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux285, M_FunctionND_00001_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux285, M_FunctionND_00001_00006)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux287, M_FunctionND_00002_00003)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux291, M_FunctionND_00002_00004)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux244, M_FunctionND_00002_00005)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux247, M_FunctionND_00002_00006)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux287, M_FunctionND_00002_00003)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux287, M_FunctionND_00002_00003)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux291, M_FunctionND_00002_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux291, M_FunctionND_00002_00004)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux244, M_FunctionND_00002_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux244, M_FunctionND_00002_00005)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux247, M_FunctionND_00002_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux247, M_FunctionND_00002_00006)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux251, M_FunctionND_00003_00004)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux245, M_FunctionND_00003_00005)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux242, M_FunctionND_00003_00006)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux251, M_FunctionND_00003_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux251, M_FunctionND_00003_00004)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux245, M_FunctionND_00003_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux245, M_FunctionND_00003_00005)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux242, M_FunctionND_00003_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux242, M_FunctionND_00003_00006)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux264, M_FunctionND_00004_00005)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux259, M_FunctionND_00004_00006)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux264, M_FunctionND_00004_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux264, M_FunctionND_00004_00005)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux259, M_FunctionND_00004_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux259, M_FunctionND_00004_00006)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux262, M_FunctionND_00005_00006)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux262, M_FunctionND_00005_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux262, M_FunctionND_00005_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux261, J_FunctionND_00001_00002)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux282, J_FunctionND_00001_00003)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux250, J_FunctionND_00001_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux284, J_FunctionND_00001_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux290, J_FunctionND_00001_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux293, J_FunctionND_00002_00003)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux288, J_FunctionND_00002_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux252, J_FunctionND_00002_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux246, J_FunctionND_00002_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux253, J_FunctionND_00003_00004)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux257, J_FunctionND_00003_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux260, J_FunctionND_00003_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux255, J_FunctionND_00004_00005)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux258, J_FunctionND_00004_00006)
+watchelement_one([0, 1, 2, 3, 4, 5, 6, 7], aux286, J_FunctionND_00005_00006)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux261, J_FunctionND_00001_00002)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux282, J_FunctionND_00001_00003)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux250, J_FunctionND_00001_00004)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux284, J_FunctionND_00001_00005)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux290, J_FunctionND_00001_00006)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux261, J_FunctionND_00001_00002)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux261, 7)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux282, J_FunctionND_00001_00003)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux282, 7)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux250, J_FunctionND_00001_00004)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux250, 7)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux284, J_FunctionND_00001_00005)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux284, 7)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux290, J_FunctionND_00001_00006)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux290, 7)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux293, J_FunctionND_00002_00003)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux288, J_FunctionND_00002_00004)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux252, J_FunctionND_00002_00005)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux246, J_FunctionND_00002_00006)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux293, J_FunctionND_00002_00003)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux293, 7)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux288, J_FunctionND_00002_00004)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux288, 7)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux252, J_FunctionND_00002_00005)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux252, 7)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux246, J_FunctionND_00002_00006)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux246, 7)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux253, J_FunctionND_00003_00004)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux257, J_FunctionND_00003_00005)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux260, J_FunctionND_00003_00006)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux253, J_FunctionND_00003_00004)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux253, 7)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux257, J_FunctionND_00003_00005)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux257, 7)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux260, J_FunctionND_00003_00006)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux260, 7)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux255, J_FunctionND_00004_00005)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux258, J_FunctionND_00004_00006)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux255, J_FunctionND_00004_00005)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux255, 7)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux258, J_FunctionND_00004_00006)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux258, 7)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux286, J_FunctionND_00005_00006)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux286, J_FunctionND_00005_00006)
+watchelement_one([7, 7, 7, 7, 7, 7, 7, 7], aux286, 7)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux261, 1)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux282, 1)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux250, 1)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux284, 1)
+watchelement_one([0, 1, M_FunctionND_00001_00002, M_FunctionND_00001_00003, M_FunctionND_00001_00004, M_FunctionND_00001_00005, M_FunctionND_00001_00006, 1], aux290, 1)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux261, 2)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux293, 2)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux288, 2)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux252, 2)
+watchelement_one([0, M_FunctionND_00001_00002, 2, M_FunctionND_00002_00003, M_FunctionND_00002_00004, M_FunctionND_00002_00005, M_FunctionND_00002_00006, 2], aux246, 2)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux282, 3)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux293, 3)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux253, 3)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux257, 3)
+watchelement_one([0, M_FunctionND_00001_00003, M_FunctionND_00002_00003, 3, M_FunctionND_00003_00004, M_FunctionND_00003_00005, M_FunctionND_00003_00006, 3], aux260, 3)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux250, 4)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux288, 4)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux253, 4)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux255, 4)
+watchelement_one([0, M_FunctionND_00001_00004, M_FunctionND_00002_00004, M_FunctionND_00003_00004, 4, M_FunctionND_00004_00005, M_FunctionND_00004_00006, 4], aux258, 4)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux284, 5)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux252, 5)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux257, 5)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux255, 5)
+watchelement_one([0, M_FunctionND_00001_00005, M_FunctionND_00002_00005, M_FunctionND_00003_00005, M_FunctionND_00004_00005, 5, M_FunctionND_00005_00006, 5], aux286, 5)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux290, 6)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux246, 6)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux260, 6)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux258, 6)
+watchelement_one([0, M_FunctionND_00001_00006, M_FunctionND_00002_00006, M_FunctionND_00003_00006, M_FunctionND_00004_00006, M_FunctionND_00005_00006, 6, 6], aux286, 6)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux292, 1)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux263, 1)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux297, 1)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux243, 1)
+watchelement_one([1, 1, J_FunctionND_00001_00002, J_FunctionND_00001_00003, J_FunctionND_00001_00004, J_FunctionND_00001_00005, J_FunctionND_00001_00006, 7], aux285, 1)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux292, 2)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux287, 2)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux291, 2)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux244, 2)
+watchelement_one([2, J_FunctionND_00001_00002, 2, J_FunctionND_00002_00003, J_FunctionND_00002_00004, J_FunctionND_00002_00005, J_FunctionND_00002_00006, 7], aux247, 2)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux263, 3)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux287, 3)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux251, 3)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux245, 3)
+watchelement_one([3, J_FunctionND_00001_00003, J_FunctionND_00002_00003, 3, J_FunctionND_00003_00004, J_FunctionND_00003_00005, J_FunctionND_00003_00006, 7], aux242, 3)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux297, 4)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux291, 4)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux251, 4)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux264, 4)
+watchelement_one([4, J_FunctionND_00001_00004, J_FunctionND_00002_00004, J_FunctionND_00003_00004, 4, J_FunctionND_00004_00005, J_FunctionND_00004_00006, 7], aux259, 4)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux243, 5)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux244, 5)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux245, 5)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux264, 5)
+watchelement_one([5, J_FunctionND_00001_00005, J_FunctionND_00002_00005, J_FunctionND_00003_00005, J_FunctionND_00004_00005, 5, J_FunctionND_00005_00006, 7], aux262, 5)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux285, 6)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux247, 6)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux242, 6)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux259, 6)
+watchelement_one([6, J_FunctionND_00001_00006, J_FunctionND_00002_00006, J_FunctionND_00003_00006, J_FunctionND_00004_00006, J_FunctionND_00005_00006, 6, 7], aux262, 6)
+ineq(R_Function1D_00002, R_Function1D_00007, 0)
+ineq(R_Function1D_00003, R_Function1D_00007, 0)
+ineq(R_Function1D_00004, R_Function1D_00007, 0)
+ineq(R_Function1D_00005, R_Function1D_00007, 0)
+ineq(R_Function1D_00006, R_Function1D_00007, 0)
+watched-or({diseq(2,J_FunctionND_00001_00002),ineq(1, R_Function1D_00002, -1)})
+watched-or({diseq(3,J_FunctionND_00001_00003),ineq(1, R_Function1D_00003, -1)})
+watched-or({diseq(J_FunctionND_00002_00003,3),ineq(R_Function1D_00002, R_Function1D_00003, -1)})
+watched-or({diseq(4,J_FunctionND_00001_00004),ineq(1, R_Function1D_00004, -1)})
+watched-or({diseq(J_FunctionND_00002_00004,4),ineq(R_Function1D_00002, R_Function1D_00004, -1)})
+watched-or({diseq(J_FunctionND_00003_00004,4),ineq(R_Function1D_00003, R_Function1D_00004, -1)})
+watched-or({diseq(5,J_FunctionND_00001_00005),ineq(1, R_Function1D_00005, -1)})
+watched-or({diseq(J_FunctionND_00002_00005,5),ineq(R_Function1D_00002, R_Function1D_00005, -1)})
+watched-or({diseq(J_FunctionND_00003_00005,5),ineq(R_Function1D_00003, R_Function1D_00005, -1)})
+watched-or({diseq(J_FunctionND_00004_00005,5),ineq(R_Function1D_00004, R_Function1D_00005, -1)})
+watched-or({diseq(6,J_FunctionND_00001_00006),ineq(1, R_Function1D_00006, -1)})
+watched-or({diseq(J_FunctionND_00002_00006,6),ineq(R_Function1D_00002, R_Function1D_00006, -1)})
+watched-or({diseq(J_FunctionND_00003_00006,6),ineq(R_Function1D_00003, R_Function1D_00006, -1)})
+watched-or({diseq(J_FunctionND_00004_00006,6),ineq(R_Function1D_00004, R_Function1D_00006, -1)})
+watched-or({diseq(6,J_FunctionND_00005_00006),ineq(R_Function1D_00005, R_Function1D_00006, -1)})
+ineq(R_Function1D_00002, R_Function1D_00007, -1)
+ineq(R_Function1D_00003, R_Function1D_00007, -1)
+ineq(R_Function1D_00004, R_Function1D_00007, -1)
+ineq(R_Function1D_00005, R_Function1D_00007, -1)
+ineq(R_Function1D_00006, R_Function1D_00007, -1)
+reifyimply(w-literal(R_Function1D_00002,1), aux348)
+reifyimply(w-literal(R_Function1D_00002,2), aux349)
+reifyimply(w-literal(R_Function1D_00003,1), aux350)
+reifyimply(w-literal(R_Function1D_00003,2), aux351)
+reifyimply(gaceq(aux248,R_Function1D_00003), aux352)
+reifyimply(w-literal(R_Function1D_00004,1), aux353)
+reifyimply(w-literal(R_Function1D_00004,2), aux354)
+reifyimply(gaceq(aux248,R_Function1D_00004), aux355)
+reifyimply(gaceq(aux265,R_Function1D_00004), aux356)
+reifyimply(w-literal(R_Function1D_00005,1), aux357)
+reifyimply(w-literal(R_Function1D_00005,2), aux358)
+reifyimply(gaceq(aux248,R_Function1D_00005), aux359)
+reifyimply(gaceq(aux265,R_Function1D_00005), aux360)
+reifyimply(gaceq(aux281,R_Function1D_00005), aux361)
+reifyimply(w-literal(R_Function1D_00006,1), aux362)
+reifyimply(w-literal(R_Function1D_00006,2), aux363)
+reifyimply(gaceq(aux248,R_Function1D_00006), aux364)
+reifyimply(gaceq(aux265,R_Function1D_00006), aux365)
+reifyimply(gaceq(aux281,R_Function1D_00006), aux366)
+reifyimply(gaceq(aux289,R_Function1D_00006), aux367)
+reifyimply(w-literal(R_Function1D_00007,2), aux368)
+reifyimply(gaceq(aux248,R_Function1D_00007), aux369)
+reifyimply(gaceq(aux265,R_Function1D_00007), aux370)
+reifyimply(gaceq(aux281,R_Function1D_00007), aux371)
+reifyimply(gaceq(aux289,R_Function1D_00007), aux372)
+watched-or({watched-and({weightedsumleq([-1,-1,1],[aux186,aux218,aux219],0),weightedsumgeq([-1,-1,1],[aux186,aux218,aux219],0)}),diseq(2,J_FunctionND_00001_00002)})
+watched-or({diseq(3,J_FunctionND_00001_00003),watched-and({weightedsumleq([1,-1,-1,-1,1],[aux189,aux193,aux217,aux373,aux374],0),weightedsumgeq([1,-1,-1,-1,1],[aux189,aux193,aux217,aux373,aux374],0)})})
+watched-or({watched-and({weightedsumleq([1,-1,-1,-1,-1,1,1],[aux192,aux197,aux216,aux375,aux376,aux377,aux378],0),weightedsumgeq([1,-1,-1,-1,-1,1,1],[aux192,aux197,aux216,aux375,aux376,aux377,aux378],0)}),diseq(4,J_FunctionND_00001_00004)})
+watched-or({diseq(5,J_FunctionND_00001_00005),watched-and({weightedsumleq([1,-1,-1,-1,-1,1,1,1,-1],[aux196,aux201,aux215,aux379,aux380,aux381,aux382,aux383,aux384],0),weightedsumgeq([1,-1,-1,-1,-1,1,1,1,-1],[aux196,aux201,aux215,aux379,aux380,aux381,aux382,aux383,aux384],0)})})
+watched-or({diseq(6,J_FunctionND_00001_00006),watched-and({weightedsumleq([-1,1,-1,-1,-1,-1,1,1,1,-1,1],[aux185,aux200,aux214,aux385,aux386,aux387,aux388,aux389,aux390,aux391,aux392],0),weightedsumgeq([-1,1,-1,-1,-1,-1,1,1,1,-1,1],[aux185,aux200,aux214,aux385,aux386,aux387,aux388,aux389,aux390,aux391,aux392],0)})})
+watched-or({diseq(J_FunctionND_00002_00003,3),watched-and({weightedsumleq([-1,1,1,-1],[aux136,aux137,aux142,aux152],0),weightedsumgeq([-1,1,1,-1],[aux136,aux137,aux142,aux152],0)})})
+watched-or({watched-and({weightedsumleq([-1,1,1,-1,1,-1],[aux132,aux144,aux155,aux156,aux393,aux394],0),weightedsumgeq([-1,1,1,-1,1,-1],[aux132,aux144,aux155,aux156,aux393,aux394],0)}),diseq(J_FunctionND_00002_00004,4)})
+watched-or({watched-and({weightedsumleq([-1,1,-1,1,1,1,-1,-1],[aux130,aux138,aux146,aux158,aux395,aux396,aux397,aux398],0),weightedsumgeq([-1,1,-1,1,1,1,-1,-1],[aux130,aux138,aux146,aux158,aux395,aux396,aux397,aux398],0)}),diseq(J_FunctionND_00002_00005,5)})
+watched-or({diseq(J_FunctionND_00002_00006,6),watched-and({weightedsumleq([-1,1,1,-1,1,-1,1,-1,-1,1],[aux128,aux140,aux148,aux150,aux399,aux400,aux401,aux402,aux403,aux404],0),weightedsumgeq([-1,1,1,-1,1,-1,1,-1,-1,1],[aux128,aux140,aux148,aux150,aux399,aux400,aux401,aux402,aux403,aux404],0)})})
+watched-or({watched-and({weightedsumleq([1,-1,1,-1],[aux160,aux170,aux171,aux174],0),weightedsumgeq([1,-1,1,-1],[aux160,aux170,aux171,aux174],0)}),diseq(J_FunctionND_00003_00004,4)})
+watched-or({watched-and({weightedsumleq([1,-1,1,-1,-1,1],[aux162,aux169,aux176,aux178,aux405,aux406],0),weightedsumgeq([1,-1,1,-1,-1,1],[aux162,aux169,aux176,aux178,aux405,aux406],0)}),diseq(J_FunctionND_00003_00005,5)})
+watched-or({watched-and({weightedsumleq([1,-1,1,-1,-1,1,-1,1],[aux164,aux166,aux180,aux183,aux407,aux408,aux409,aux410],0),weightedsumgeq([1,-1,1,-1,-1,1,-1,1],[aux164,aux166,aux180,aux183,aux407,aux408,aux409,aux410],0)}),diseq(J_FunctionND_00003_00006,6)})
+watched-or({diseq(J_FunctionND_00004_00005,5),watched-and({weightedsumleq([-1,-1,1,1],[aux232,aux234,aux235,aux237],0),weightedsumgeq([-1,-1,1,1],[aux232,aux234,aux235,aux237],0)})})
+watched-or({diseq(J_FunctionND_00004_00006,6),watched-and({weightedsumleq([1,-1,1,-1,-1,1],[aux224,aux225,aux227,aux229,aux411,aux412],0),weightedsumgeq([1,-1,1,-1,-1,1],[aux224,aux225,aux227,aux229,aux411,aux412],0)})})
+watched-or({diseq(6,J_FunctionND_00005_00006),watched-and({weightedsumleq([-1,1,-1,1],[aux124,aux125,aux126,aux127],0),weightedsumgeq([-1,1,-1,1],[aux124,aux125,aux126,aux127],0)})})
+sumleq([R_Function1D_00006,1],R_Function1D_00007)
+sumgeq([R_Function1D_00006,1],R_Function1D_00007)
+sumleq([M_FunctionND_00003_00006,1],aux242)
+sumgeq([M_FunctionND_00003_00006,1],aux242)
+sumleq([1,M_FunctionND_00001_00005],aux243)
+sumgeq([1,M_FunctionND_00001_00005],aux243)
+sumleq([M_FunctionND_00002_00005,1],aux244)
+sumgeq([M_FunctionND_00002_00005,1],aux244)
+sumleq([M_FunctionND_00003_00005,1],aux245)
+sumgeq([M_FunctionND_00003_00005,1],aux245)
+sumleq([J_FunctionND_00002_00006,1],aux246)
+sumgeq([J_FunctionND_00002_00006,1],aux246)
+sumleq([M_FunctionND_00002_00006,1],aux247)
+sumgeq([M_FunctionND_00002_00006,1],aux247)
+sumleq([R_Function1D_00002,1],aux248)
+sumgeq([R_Function1D_00002,1],aux248)
+sumleq([1,J_FunctionND_00001_00004],aux250)
+sumgeq([1,J_FunctionND_00001_00004],aux250)
+sumleq([M_FunctionND_00003_00004,1],aux251)
+sumgeq([M_FunctionND_00003_00004,1],aux251)
+sumleq([J_FunctionND_00002_00005,1],aux252)
+sumgeq([J_FunctionND_00002_00005,1],aux252)
+sumleq([J_FunctionND_00003_00004,1],aux253)
+sumgeq([J_FunctionND_00003_00004,1],aux253)
+sumleq([J_FunctionND_00004_00005,1],aux255)
+sumgeq([J_FunctionND_00004_00005,1],aux255)
+sumleq([J_FunctionND_00003_00005,1],aux257)
+sumgeq([J_FunctionND_00003_00005,1],aux257)
+sumleq([J_FunctionND_00004_00006,1],aux258)
+sumgeq([J_FunctionND_00004_00006,1],aux258)
+sumleq([M_FunctionND_00004_00006,1],aux259)
+sumgeq([M_FunctionND_00004_00006,1],aux259)
+sumleq([J_FunctionND_00003_00006,1],aux260)
+sumgeq([J_FunctionND_00003_00006,1],aux260)
+sumleq([1,J_FunctionND_00001_00002],aux261)
+sumgeq([1,J_FunctionND_00001_00002],aux261)
+sumleq([1,M_FunctionND_00005_00006],aux262)
+sumgeq([1,M_FunctionND_00005_00006],aux262)
+sumleq([1,M_FunctionND_00001_00003],aux263)
+sumgeq([1,M_FunctionND_00001_00003],aux263)
+sumleq([M_FunctionND_00004_00005,1],aux264)
+sumgeq([M_FunctionND_00004_00005,1],aux264)
+sumleq([R_Function1D_00003,1],aux265)
+sumgeq([R_Function1D_00003,1],aux265)
+sumleq([R_Function1D_00004,1],aux281)
+sumgeq([R_Function1D_00004,1],aux281)
+sumleq([1,J_FunctionND_00001_00003],aux282)
+sumgeq([1,J_FunctionND_00001_00003],aux282)
+sumleq([1,J_FunctionND_00001_00005],aux284)
+sumgeq([1,J_FunctionND_00001_00005],aux284)
+sumleq([1,M_FunctionND_00001_00006],aux285)
+sumgeq([1,M_FunctionND_00001_00006],aux285)
+sumleq([1,J_FunctionND_00005_00006],aux286)
+sumgeq([1,J_FunctionND_00005_00006],aux286)
+sumleq([M_FunctionND_00002_00003,1],aux287)
+sumgeq([M_FunctionND_00002_00003,1],aux287)
+sumleq([J_FunctionND_00002_00004,1],aux288)
+sumgeq([J_FunctionND_00002_00004,1],aux288)
+sumleq([R_Function1D_00005,1],aux289)
+sumgeq([R_Function1D_00005,1],aux289)
+sumleq([1,J_FunctionND_00001_00006],aux290)
+sumgeq([1,J_FunctionND_00001_00006],aux290)
+sumleq([M_FunctionND_00002_00004,1],aux291)
+sumgeq([M_FunctionND_00002_00004,1],aux291)
+sumleq([1,M_FunctionND_00001_00002],aux292)
+sumgeq([1,M_FunctionND_00001_00002],aux292)
+sumleq([J_FunctionND_00002_00003,1],aux293)
+sumgeq([J_FunctionND_00002_00003,1],aux293)
+sumleq([1,M_FunctionND_00001_00004],aux297)
+sumgeq([1,M_FunctionND_00001_00004],aux297)
+weightedsumleq([-1,-1,1],[aux218,aux240,!aux240],-1)
+weightedsumgeq([-1,-1,1],[aux218,aux240,!aux240],-1)
+weightedsumleq([-1,1,-1,-1,1],[aux136,aux142,aux217,aux283,!aux283],-1)
+weightedsumgeq([-1,1,-1,-1,1],[aux136,aux142,aux217,aux283,!aux283],-1)
+weightedsumleq([-1,1,1,-1,-1,-1,1],[aux132,aux144,aux160,aux170,aux216,aux249,!aux249],-1)
+weightedsumgeq([-1,1,1,-1,-1,-1,1],[aux132,aux144,aux160,aux170,aux216,aux249,!aux249],-1)
+weightedsumleq([-1,1,1,-1,-1,-1,1,-1,1],[aux130,aux138,aux162,aux169,aux215,aux234,aux237,aux254,!aux254],-1)
+weightedsumgeq([-1,1,1,-1,-1,-1,1,-1,1],[aux130,aux138,aux162,aux169,aux215,aux234,aux237,aux254,!aux254],-1)
+weightedsumleq([-1,1,-1,1,1,-1,-1,1,-1,-1,1],[aux124,aux127,aux128,aux140,aux164,aux166,aux214,aux227,aux229,aux294,!aux294],-1)
+weightedsumgeq([-1,1,-1,1,1,-1,-1,1,-1,-1,1],[aux124,aux127,aux128,aux140,aux164,aux166,aux214,aux227,aux229,aux294,!aux294],-1)
+weightedsumleq([-1,-1,-1,-1,-1,-1,1,1,1,1,1,1],[aux240,aux249,aux254,aux256,aux283,aux294,!aux240,!aux249,!aux254,!aux256,!aux283,!aux294],0)
+weightedsumgeq([-1,-1,-1,-1,-1,-1,1,1,1,1,1,1],[aux240,aux249,aux254,aux256,aux283,aux294,!aux240,!aux249,!aux254,!aux256,!aux283,!aux294],0)
+weightedsumleq([-1,-1,1,1,-1,1,-1,1,-1,1,-1,1],[aux185,aux186,aux189,aux192,aux193,aux196,aux197,aux200,aux201,aux219,aux256,!aux256],1)
+weightedsumgeq([-1,-1,1,1,-1,1,-1,1,-1,1,-1,1],[aux185,aux186,aux189,aux192,aux193,aux196,aux197,aux200,aux201,aux219,aux256,!aux256],1)
+weightedsumleq([1,-1,1,-1,-1,1,-1,1,-1,-1,1,1],[aux137,aux146,aux148,aux150,aux152,aux155,aux156,aux158,aux240,aux256,!aux240,!aux256],0)
+weightedsumgeq([1,-1,1,-1,-1,1,-1,1,-1,-1,1,1],[aux137,aux146,aux148,aux150,aux152,aux155,aux156,aux158,aux240,aux256,!aux240,!aux256],0)
+weightedsumleq([1,-1,1,-1,1,-1,-1,-1,1,1],[aux171,aux174,aux176,aux178,aux180,aux183,aux256,aux283,!aux256,!aux283],0)
+weightedsumgeq([1,-1,1,-1,1,-1,-1,-1,1,1],[aux171,aux174,aux176,aux178,aux180,aux183,aux256,aux283,!aux256,!aux283],0)
+weightedsumleq([1,-1,-1,1,-1,-1,1,1],[aux224,aux225,aux232,aux235,aux249,aux256,!aux249,!aux256],0)
+weightedsumgeq([1,-1,-1,1,-1,-1,1,1],[aux224,aux225,aux232,aux235,aux249,aux256,!aux249,!aux256],0)
+weightedsumleq([1,-1,-1,-1,1,1],[aux125,aux126,aux254,aux256,!aux254,!aux256],0)
+weightedsumgeq([1,-1,-1,-1,1,1],[aux125,aux126,aux254,aux256,!aux254,!aux256],0)
+weightedsumleq([-1,-1,1,1],[aux256,aux294,!aux256,!aux294],0)
+weightedsumgeq([-1,-1,1,1],[aux256,aux294,!aux256,!aux294],0)
+**EOF**
